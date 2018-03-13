@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Rising-Footer-Concept-Icons';
-  src:  url('fonts/Rising-Footer-Concept-Icons.eot?gadtno');
-  src:  url('fonts/Rising-Footer-Concept-Icons.eot?gadtno#iefix') format('embedded-opentype'),
-    url('fonts/Rising-Footer-Concept-Icons.ttf?gadtno') format('truetype'),
-    url('fonts/Rising-Footer-Concept-Icons.woff?gadtno') format('woff'),
-    url('fonts/Rising-Footer-Concept-Icons.svg?gadtno#Rising-Footer-Concept-Icons') format('svg');
+  src:  url('https://raw.githubusercontent.com/PwnzLPs/icomoonFonts/master/fonts/Rising-Footer-Concept-Icons.eot?gadtno');
+  src:  url('https://raw.githubusercontent.com/PwnzLPs/icomoonFonts/master/fonts/Rising-Footer-Concept-Icons.eot?gadtno#iefix') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/PwnzLPs/icomoonFonts/master/fonts/Rising-Footer-Concept-Icons.ttf?gadtno') format('truetype'),
+    url('https://raw.githubusercontent.com/PwnzLPs/icomoonFonts/master/fonts/Rising-Footer-Concept-Icons.woff?gadtno') format('woff'),
+    url('https://raw.githubusercontent.com/PwnzLPs/icomoonFonts/master/fonts/Rising-Footer-Concept-Icons.svg?gadtno#Rising-Footer-Concept-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
