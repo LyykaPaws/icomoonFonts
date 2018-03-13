@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'Rising-Footer-Concept-Icons\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-bars': '&#xe938;',
+		'icon-times': '&#xe939;',
 		'icon-pugjs': '&#xe907;',
 		'icon-codepen': '&#xe900;',
 		'icon-css3': '&#xe901;',
